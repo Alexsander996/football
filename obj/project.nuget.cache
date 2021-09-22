@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXqE9o5eK/wNAQSj5t/QQdb87x+G6qTMiYWNMuG3tt4L4Jk1gyZeIoNgjYgT3W/q5y/X5KLLXiRSPak1aKL5tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Саня\\Documents\\GitHub\\footaball\\footaball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Саня\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Саня\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Саня\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Саня\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Саня\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Саня\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
