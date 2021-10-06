@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 namespace footaball.Controllers
 {
     [ApiController]
-    [Route("[/Viewer]")]
+    [Route("[[/Viewer]]")]
     public class ViewerController : ControllerBase
     {
      
-        [httpGet("WatchingTheMach")]
+        [HttpGet("WatchingTheMach")]
         public string WatchingTheMach(string str)
         {
             return str; // Метод просмотра матча
@@ -24,7 +24,7 @@ namespace footaball.Controllers
             return str; // Метод выбора худшего и лучшего игрока
         }
 
-        [HttpGet("PayTheTicket")]
+        [HttpPut("PayTheTicket")]
         public string PayTheTicket(string str)
         {
             return str; // Метод покупки билета
@@ -32,4 +32,4 @@ namespace footaball.Controllers
 
         }
     }
-}
+

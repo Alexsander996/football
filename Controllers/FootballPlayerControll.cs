@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 namespace footaball.Controllers
 {
     [ApiController]
-    [Route("[/player]")]
+    [Route("[[/Player]]")]
     public class PlayerController : ControllerBase
     {
      
-        [httpGet("GettingSalary")]
+        [HttpPut("GettingSalary")]
         public string GettingSalary(string str)
         {
             return str; // Метод получения зарплаты игроком
@@ -33,4 +33,4 @@ namespace footaball.Controllers
 
         }
     }
-}
+
