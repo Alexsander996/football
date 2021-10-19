@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2021-10-19T18:27:39.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.1.684 Yowser/2.5 Safari/537.36" etag="_2N5kEE8EviaGvv5wPqJ" version="15.5.5" type="github">
+  <diagram id="LvhbF5BDZ4styEDrSRWy" name="Page-1">
+    <mxGraphModel dx="1038" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-5" target="EHTkyUyCTB1rWVCB3goT-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-5" target="EHTkyUyCTB1rWVCB3goT-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-5" target="EHTkyUyCTB1rWVCB3goT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-5" target="EHTkyUyCTB1rWVCB3goT-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-5" value="Тренер&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="257.4000244140625" y="247.59999999999997" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-6" value="Запись команды на матч" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="205" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-7" value="Определение состава на игру" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="260.19999999999993" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-8" value="Определение эффективности игрока" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="315.4" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-9" value="Выплата игрокам ЗП" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="370.5999999999999" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-12" target="EHTkyUyCTB1rWVCB3goT-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-12" target="EHTkyUyCTB1rWVCB3goT-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URa3h4LuNoyBl-Gvd30F-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-12" target="URa3h4LuNoyBl-Gvd30F-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-12" value="Болельщик&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="774.0000244140625" y="278.59999999999997" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-13" value="Просмотр матча" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580.0000244140625" y="265.79999999999995" width="145" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-14" value="Выбрать худшего и лучшего игрока мачта" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580.0000244140625" y="320.9999877929687" width="145" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-18" target="EHTkyUyCTB1rWVCB3goT-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-18" target="EHTkyUyCTB1rWVCB3goT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EHTkyUyCTB1rWVCB3goT-18" target="EHTkyUyCTB1rWVCB3goT-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-18" value="Футболист" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="257.4000244140625" y="494.5999999999999" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-19" value="Получение ЗП" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="478.5999999999999" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-20" value="Просмотр состава на матч" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="533.8" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EHTkyUyCTB1rWVCB3goT-21" value="Просмотр расписания тренировок" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.4000244140625" y="589" width="147" height="55.2" as="geometry" />
+        </mxCell>
+        <mxCell id="URa3h4LuNoyBl-Gvd30F-1" value="Купить билеты на матч&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="578" y="376.2" width="147" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
