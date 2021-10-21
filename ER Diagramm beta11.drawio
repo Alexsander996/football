@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T11:41:09.410Z" agent="5.0 (Windows)" etag="HgJjPExAw5D-US3xPZNb" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T11:42:01.963Z" agent="5.0 (Windows)" etag="2ZIpCYaV3rsIIyRbT8p-" version="15.5.8" type="github">
   <diagram id="-oKt8M-A-XIeJBn6rVSu" name="Page-1">
     <mxGraphModel dx="1221" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iiKmWWzBk5WKIRumK6L6-1" value="Money" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="190" width="180" height="158.75" as="geometry">
+          <mxGeometry x="110" y="360" width="180" height="158.75" as="geometry">
             <mxRectangle x="-83" y="305.25" width="65" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -46,12 +46,6 @@
         <mxCell id="iiKmWWzBk5WKIRumK6L6-10" value="Text" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="iiKmWWzBk5WKIRumK6L6-8" vertex="1">
           <mxGeometry x="62.54998779296875" width="117.45001220703125" height="59" as="geometry">
             <mxRectangle width="117.45001220703125" height="59" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iiKmWWzBk5WKIRumK6L6-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.993;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="iiKmWWzBk5WKIRumK6L6-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="438.25" as="sourcePoint" />
-            <mxPoint x="290" y="438.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iiKmWWzBk5WKIRumK6L6-12" value="Player" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
