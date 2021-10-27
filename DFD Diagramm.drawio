@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T14:37:32.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.1.684 Yowser/2.5 Safari/537.36" etag="9A1DUTaFmmZWHZeChB3m" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T15:30:38.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.1.684 Yowser/2.5 Safari/537.36" etag="AcqD51HuXadZ4iDfRtXz" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eOIrUp3XJDV-W28vNHnl-21" value="Определение состава на игру" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1205" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eOIrUp3XJDV-W28vNHnl-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -127,7 +127,7 @@
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-3" value="Купить игрока" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lr7Eeemeu5pWexbAgqRX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-4" target="Lr7Eeemeu5pWexbAgqRX-0">
+        <mxCell id="Lr7Eeemeu5pWexbAgqRX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-4" target="Lr7Eeemeu5pWexbAgqRX-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-4" value="Подписать контракт с игроком" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -171,9 +171,9 @@
             <mxPoint x="970" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGsrUP2sVR3z3tPlqDbo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-9" edge="1">
+        <mxCell id="XGsrUP2sVR3z3tPlqDbo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-9" edge="1" target="eOIrUp3XJDV-W28vNHnl-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1035" y="630" as="targetPoint" />
+            <mxPoint x="1070" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-9" target="eOIrUp3XJDV-W28vNHnl-15" edge="1">
@@ -187,11 +187,6 @@
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="920" y="590" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XGsrUP2sVR3z3tPlqDbo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eOIrUp3XJDV-W28vNHnl-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1155" y="630" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eOIrUp3XJDV-W28vNHnl-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -245,9 +240,6 @@
         <mxCell id="xHA_YGjWeiTxH-2LHFFL-11" value="Календарь матчей" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHA_YGjWeiTxH-2LHFFL-13" value="Основной состав" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1040" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pnqpKv2bwa6MBnU_AN3N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pnqpKv2bwa6MBnU_AN3N-1" target="XGsrUP2sVR3z3tPlqDbo-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -260,7 +252,7 @@
         <mxCell id="pnqpKv2bwa6MBnU_AN3N-2" value="Билет на стадион" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1705" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lr7Eeemeu5pWexbAgqRX-0" value="Контракт" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lr7Eeemeu5pWexbAgqRX-0" value="Контракт" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1350" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
