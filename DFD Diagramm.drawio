@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T19:02:54.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.1.684 Yowser/2.5 Safari/537.36" etag="1P0CSPFwIte9tOvNmYXa" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T14:37:32.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.1.684 Yowser/2.5 Safari/537.36" etag="9A1DUTaFmmZWHZeChB3m" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -127,6 +127,9 @@
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-3" value="Купить игрока" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lr7Eeemeu5pWexbAgqRX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-4" target="Lr7Eeemeu5pWexbAgqRX-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-4" value="Подписать контракт с игроком" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -195,13 +198,13 @@
             <mxPoint x="1000" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-32" target="pnqpKv2bwa6MBnU_AN3N-1">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-32" target="pnqpKv2bwa6MBnU_AN3N-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-32" value="Купить билет для просмотра матча на сайте" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1545" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-33" target="pnqpKv2bwa6MBnU_AN3N-2">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-33" target="pnqpKv2bwa6MBnU_AN3N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1765" y="270" as="targetPoint" />
           </mxGeometry>
@@ -209,13 +212,13 @@
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-33" value="Забронировать место на стадионе" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1705" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-34" target="XGsrUP2sVR3z3tPlqDbo-36">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-34" target="XGsrUP2sVR3z3tPlqDbo-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-34" value="Просмотр матча на сайте" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1545" y="401" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-35" target="XGsrUP2sVR3z3tPlqDbo-36">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-35" target="XGsrUP2sVR3z3tPlqDbo-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGsrUP2sVR3z3tPlqDbo-35" value="Просмотр матча на стадионе" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -245,17 +248,20 @@
         <mxCell id="xHA_YGjWeiTxH-2LHFFL-13" value="Основной состав" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pnqpKv2bwa6MBnU_AN3N-1" target="XGsrUP2sVR3z3tPlqDbo-34">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pnqpKv2bwa6MBnU_AN3N-1" target="XGsrUP2sVR3z3tPlqDbo-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-1" value="Онлайн билет" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-1" value="Онлайн билет" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1545" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pnqpKv2bwa6MBnU_AN3N-2" target="XGsrUP2sVR3z3tPlqDbo-35">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pnqpKv2bwa6MBnU_AN3N-2" target="XGsrUP2sVR3z3tPlqDbo-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pnqpKv2bwa6MBnU_AN3N-2" value="Билет на стадион" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pnqpKv2bwa6MBnU_AN3N-2" value="Билет на стадион" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1705" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr7Eeemeu5pWexbAgqRX-0" value="Контракт" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
