@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace footaball.Controllers
 {
     [ApiController]
-    [Route("[[/Player]]")]
+    [Route("/Player")]
     public class PlayerController : ControllerBase
     {
         [HttpPut("GettingSalary")]

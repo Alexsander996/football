@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace footaball.Controllers
 {
     [ApiController]
-    [Route("[[/Viewer]]")]
+    [Route("/Viewer")]
     public class ViewerController : ControllerBase
     {
         [HttpGet("WatchingTheMach")]
