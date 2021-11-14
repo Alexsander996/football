@@ -53,7 +53,10 @@
 ## Список используемой литературы
 
 In computer programming, create, read, update, and delete (CRUD) - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+
 C# и .NET | Классы и объекты - https://metanit.com/sharp/tutorial/3.1.php
+
 C# и .NET | Свойства - https://metanit.com/sharp/tutorial/3.4.php
+
 SQL Data Types - JournalDev - https://www.journaldev.com/16774/sql-data-types
 
