@@ -26,7 +26,7 @@ namespace footaball.Controllers
         {
             return str; // Метод определения эффективности игрока
         }
-        [HttpPost("PaymentOfSalariesToPlayers")]
+        [HttpPut("PaymentOfSalariesToPlayers")]
         public string PaymentOfSalariesToPlayers(string str)
         {
             return str; // Методы выплаты игрокам зарплаты

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("footaball")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("football")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("footaball")]
-[assembly: System.Reflection.AssemblyTitleAttribute("footaball")]
+[assembly: System.Reflection.AssemblyProductAttribute("football")]
+[assembly: System.Reflection.AssemblyTitleAttribute("football")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

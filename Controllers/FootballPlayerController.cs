@@ -11,7 +11,7 @@ namespace footaball.Controllers
     [Route("/Player")]
     public class PlayerController : ControllerBase
     {
-        [HttpPut("GettingSalary")]
+        [HttpGet("GettingSalary")]
         public string GettingSalary(string str)
         {
             return str; // Метод получения зарплаты игроком

@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "footaball/1.0.0": {
+      "football/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.10",
@@ -320,10 +320,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "footaball.dll": {}
+          "football.dll": {}
         },
         "compile": {
-          "footaball.dll": {}
+          "football.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -3561,7 +3561,7 @@
     }
   },
   "libraries": {
-    "footaball/1.0.0": {
+    "football/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

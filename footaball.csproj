@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>football</AssemblyName>
+    <RootNamespace>football</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -29,6 +31,7 @@
     <Folder Include="wwwroot\lib\jquery-validation\dist\" />
     <Folder Include="wwwroot\lib\jquery\" />
     <Folder Include="wwwroot\lib\jquery\dist\" />
+    <Folder Include="Domain\" />
   </ItemGroup>
 
 </Project>
