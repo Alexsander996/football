@@ -54,6 +54,8 @@
 
 In computer programming, create, read, update, and delete (CRUD) - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 
+Что такое ER-диаграмма и как ее создать? - https://www.lucidchart.com/pages/ru/erd-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0
+
 C# и .NET | Классы и объекты - https://metanit.com/sharp/tutorial/3.1.php
 
 C# и .NET | Свойства - https://metanit.com/sharp/tutorial/3.4.php
