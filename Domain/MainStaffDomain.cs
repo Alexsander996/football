@@ -11,3 +11,4 @@ class MainStaff
     public string LeftFlangStriker { get; set; }
     public string RightFlangStriker { get; set; }
     public string Forward { get; set; }
+}
