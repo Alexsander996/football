@@ -1,5 +1,10 @@
-class TransferMarket
+using System;
+
+namespace GitHub
 {
-    public int TransferPrice { get; set; }
-    public string News { get; set; }
+    class TransferMarket
+    {
+        public int TransferPrice { get; set; }
+        public string News { get; set; }
+    }
 }

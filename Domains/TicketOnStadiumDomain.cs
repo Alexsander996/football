@@ -1,6 +1,11 @@
-class TicketOnStadium
+using System;
+
+namespace GitHub
 {
-    public System.DateTime TimeMatch { get; set; }
-    public int Row { get; set; }
-    public int Seat { get; set; }
+    class TicketOnStadium
+    {
+        public System.DateTime TimeMatch { get; set; }
+        public int Row { get; set; }
+        public int Seat { get; set; }
+    }
 }

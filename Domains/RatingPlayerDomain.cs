@@ -1,6 +1,11 @@
-class RatingPlayer
+using System;
+
+namespace GitHub
 {
-    public int CompliteTraning { get; set; }
-    public int ComplitePhysical { get; set; }
-    public int EfficiencyInMatch { get; set; }
+    class RatingPlayer
+    {
+        public int CompliteTraning { get; set; }
+        public int ComplitePhysical { get; set; }
+        public int EfficiencyInMatch { get; set; }
+    }
 }

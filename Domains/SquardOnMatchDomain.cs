@@ -1,6 +1,11 @@
-class SquardOnMatch
+using System;
+
+namespace GitHub
 {
-    public int MainStaff { get; set; }
-    public int SpareStaff { get; set; }
-    public int ReserveStaff { get; set; }
+    class SquardOnMatch
+    {
+        public int MainStaff { get; set; }
+        public int SpareStaff { get; set; }
+        public int ReserveStaff { get; set; }
+    }
 }

@@ -1,5 +1,10 @@
-class Trener
+using System;
+
+namespace GitHub
 {
-    public int TraningSchedule { get; set; }
-    public int RatingPlayer { get; set; }
+    class Trener
+    {
+        public int TraningSchedule { get; set; }
+        public int RatingPlayer { get; set; }
+    }
 }

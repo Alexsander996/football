@@ -1,5 +1,10 @@
-class TraningPlace
+using System;
+
+namespace GitHub
 {
-    public string NamePlace { get; set; }
-    public int CodePlace { get; set; }
+    class TraningPlace
+    {
+        public string NamePlace { get; set; }
+        public int CodePlace { get; set; }
+    }
 }

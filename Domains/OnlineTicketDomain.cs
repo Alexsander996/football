@@ -1,5 +1,10 @@
-class OnlineTicket
+using System;
+
+namespace GitHub
 {
-    public System.DateTime TimeTranslation { get; set; }
-    public int MainStaff { get; set; }
+    class OnlineTicket
+    {
+        public DateTime TimeTranslation { get; set; }
+        public int MainStaff { get; set; }
+    }
 }

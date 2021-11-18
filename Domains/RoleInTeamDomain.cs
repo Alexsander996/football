@@ -1,5 +1,10 @@
-class RoleInTeam
+using System;
+
+namespace GitHub
 {
-    public string NameRole { get; set; }
-    public int DegreeOfImportance { get; set; }
+    class RoleInTeam
+    {
+        public string NameRole { get; set; }
+        public int DegreeOfImportance { get; set; }
+    }
 }

@@ -1,5 +1,10 @@
-class PositionOnField
+using System;
+
+namespace GitHub
 {
-    public int CodePosition { get; set; }
-    public string NamePosition { get; set; }
+    class PositionOnField
+    {
+        public int CodePosition { get; set; }
+        public string NamePosition { get; set; }
+    }
 }

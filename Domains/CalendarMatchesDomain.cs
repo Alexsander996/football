@@ -1,6 +1,11 @@
-class CalendarMatches
+using System;
+
+namespace GitHub
 {
-    public System.DateTime DateMatches { get; set; }
-    public int MatchPlace { get; set; }
-    public int SquardOnMatch { get; set; }
+    class CalendarMatches
+    {
+        public System.DateTime DateMatches { get; set; }
+        public int MatchPlace { get; set; }
+        public int SquardOnMatch { get; set; }
+    }
 }

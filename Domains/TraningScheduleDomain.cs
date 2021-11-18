@@ -1,5 +1,10 @@
-class TraningScheduleDomain
+using System;
+
+namespace GitHub
 {
-    public string Date { get; set; }
-    public int Location { get; set; }
+    class TraningScheduleDomain
+    {
+        public string Date { get; set; }
+        public int Location { get; set; }
+    }
 }
