@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T10:50:18.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.1.932 Yowser/2.5 Safari/537.36" etag="IksbmmVKXK4h7C-WBMtG" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T15:01:16.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.1.932 Yowser/2.5 Safari/537.36" etag="nN84A0Io6RixPxBZXSJA" version="15.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="300701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="1464" dy="301448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -111,7 +111,7 @@
         <mxCell id="j-8AjmEDH8plKs_JmR50-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-2" target="eOIrUp3XJDV-W28vNHnl-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VKweWeoTw97WmxMNcxDX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-2" target="vQKI6lYBcW5KjsZd6oIX-5">
+        <mxCell id="VKweWeoTw97WmxMNcxDX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XGsrUP2sVR3z3tPlqDbo-2" target="vQKI6lYBcW5KjsZd6oIX-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="820" y="680" />
@@ -250,7 +250,7 @@
         <mxCell id="3AKp8cD8-QL655OngkcY-1" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1805" y="19" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VKweWeoTw97WmxMNcxDX-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3AKp8cD8-QL655OngkcY-6" target="3AKp8cD8-QL655OngkcY-7">
+        <mxCell id="VKweWeoTw97WmxMNcxDX-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3AKp8cD8-QL655OngkcY-6" target="3AKp8cD8-QL655OngkcY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3AKp8cD8-QL655OngkcY-6" value="Болельщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -267,8 +267,13 @@
         <mxCell id="j-8AjmEDH8plKs_JmR50-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-8AjmEDH8plKs_JmR50-9" target="j-8AjmEDH8plKs_JmR50-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-8AjmEDH8plKs_JmR50-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-8AjmEDH8plKs_JmR50-9" target="XGsrUP2sVR3z3tPlqDbo-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j-8AjmEDH8plKs_JmR50-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-8AjmEDH8plKs_JmR50-9" target="XGsrUP2sVR3z3tPlqDbo-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="170" />
+              <mxPoint x="1060" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j-8AjmEDH8plKs_JmR50-9" value="Выставить игрока на трансферный рынок&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="830" y="80" width="120" height="60" as="geometry" />
