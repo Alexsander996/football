@@ -4,7 +4,8 @@ namespace GitHub
 {
     public class OnlineTicket
     {
-        public DateTime TimeTranslation { get; set; }
-        public int MainStaff { get; set; }
+        public int OnlineTicketID { get; set; } 
+        public CalendarMatches TimeTranslation { get; set; }
+
     }
 }
