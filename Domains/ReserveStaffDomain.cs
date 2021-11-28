@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class ReserveStaff
+    public class ReserveStaff
     {
         public string ReserveGoalKeeper { get; set; }
         public string ReserveDefender { get; set; }

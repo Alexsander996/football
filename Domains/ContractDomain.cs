@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class Contract
+    public class Contract
     {
         public int Duration { get; set; }
         public int Salary { get; set; }

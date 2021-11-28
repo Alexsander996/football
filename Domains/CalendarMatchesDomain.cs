@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class CalendarMatches
+    public class CalendarMatches
     {
         public System.DateTime DateMatches { get; set; }
         public int MatchPlace { get; set; }

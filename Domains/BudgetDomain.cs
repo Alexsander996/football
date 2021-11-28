@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class Budget
+   public class Budget
     {
         public int BalanceFromSale { get; set; }
         public int BalanceFromContract { get; set; }

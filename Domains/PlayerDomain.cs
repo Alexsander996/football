@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class Player
+    public class Player
     {
         public string FIO { get; set; }
         public int Nomber { get; set; }

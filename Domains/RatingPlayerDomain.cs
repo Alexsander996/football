@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class RatingPlayer
+    public class RatingPlayer
     {
         public int CompliteTraning { get; set; }
         public int ComplitePhysical { get; set; }

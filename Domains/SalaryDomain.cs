@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class Salary
+    public class Salary
     {
         public int BudgetClub { get; set; }
         public string FIOPlayer { get; set; }

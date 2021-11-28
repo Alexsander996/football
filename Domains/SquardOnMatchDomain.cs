@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class SquardOnMatch
+    public class SquardOnMatch
     {
         public int MainStaff { get; set; }
         public int SpareStaff { get; set; }
