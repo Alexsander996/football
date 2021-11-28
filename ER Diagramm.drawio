@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T05:58:22.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.0.1996 Yowser/2.5 Safari/537.36" etag="1MfbVB9VwzW_jccw42Iz" version="15.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-18T08:25:01.357Z" agent="5.0 (Windows)" etag="2J0FCPre-8PZ0THA8IZj" version="15.8.2" type="github" pages="2">
   <diagram id="-oKt8M-A-XIeJBn6rVSu" name="Page-1">
-    <mxGraphModel dx="301038" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="301483" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Flkjfe7LQMMwELPF7-r3-43" value="Трансферный рынок" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="Flkjfe7LQMMwELPF7-r3-43" value="Трансферный рынок" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="670" y="570" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Flkjfe7LQMMwELPF7-r3-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Flkjfe7LQMMwELPF7-r3-43" vertex="1">
@@ -1275,7 +1275,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUo0vX1zdF_IuqfFn-Rd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="K6LOh0tFCiXBuEBweSnx-242" target="K6LOh0tFCiXBuEBweSnx-32" edge="1">
+        <mxCell id="SUo0vX1zdF_IuqfFn-Rd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="K6LOh0tFCiXBuEBweSnx-242" target="K6LOh0tFCiXBuEBweSnx-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-270" y="980" />
@@ -1287,7 +1287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f0rfcbG9SQUWVkzYNdzc" name="Page-2">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GwUgQyJDz3GwD-Am8qzI-0" />
         <mxCell id="GwUgQyJDz3GwD-Am8qzI-1" parent="GwUgQyJDz3GwD-Am8qzI-0" />
