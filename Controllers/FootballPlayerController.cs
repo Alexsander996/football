@@ -4,27 +4,54 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using GitHub;
+using GitHub.Repository;
 
 namespace footaball.Controllers
 {
     [ApiController]
-    [Route("/Player")]
+    [Route("/player")]
     public class PlayerController : ControllerBase
     {
-        [HttpGet("GettingSalary")]
-        public string GettingSalary(string str)
+        [HttpPut]
+        public Player Crate(Player player)
         {
-            return str; // Метод получения зарплаты игроком
+            Storage.PlayerStorage.Create(player);
+            return player;
         }
-        [HttpGet("InfomationAboutSquadOnMath")]
-        public string InformationAboutSquadOnMath(string str)
+        [HttpGet]
+        public Player Read(int playerID)
         {
-            return str; // Метод просмотра состава на игру
+            return Storage.PlayerStorage.Read(playerID);
         }
-        [HttpGet("ViewTimetableTraning")]
-        public string ViewTimetableTraning(string str)
+        [HttpPatch]
+        public Player Update(int playerID, Player newPlayer)
         {
-            return str; // Метод просмотра расписания тренировок
+            return Storage.PlayerStorage.Update(playerID, newPlayer);
+        }
+
+        [HttpDelete]
+        public bool Delete(int playerID)
+        {
+            return Storage.PlayerStorage.Delete(playerID);
+        }
+
+        [HttpGet("CheckSquad")]
+        public string CheckSquad(string str)
+        {
+            return str; // метод просмотра состава на игру
+        }
+
+        [HttpGet("CheckBalance")]
+        public string CheckBalance(string str)
+        {
+            return str; // метод проверки баланса
+        }
+
+        [HttpGet("CheckSchedule")]
+        public string CheckSchedule(string str)
+        {
+            return str; // метод просмотра расписания
         }
     }
 }

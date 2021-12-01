@@ -9,5 +9,6 @@ namespace GitHub
         public int Number { get; set; }
         public RatingPlayer Rating { get; set; }
         public PositionOnField PositionInField { get; set; }
+        public RoleInTeam Role { get; set; }
     }
 }

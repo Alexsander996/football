@@ -4,32 +4,65 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using GitHub.Repository;
+using GitHub;
 
-namespace footaball.Controllers
+namespace football.Controllers
 {
     [ApiController]
-    [Route("/Trener")]
+    [Route("/trener")]
     public class TrenerController : ControllerBase
     {
-        [HttpPut("InformationAboutSquad")]
-        public string InformationAboutSquad(string str)
+        [HttpPut]
+        public Trener Create(Trener trener)
         {
-            return str; // Метод получения информации о составах команды
+            Storage.TrenerStorage.Create(trener);
+            return trener;
         }
-        [HttpPut("RegistrationForTheMatch")]
-        public string RegistrationForTheMatch(string str)
+        [HttpGet]
+        public Trener Read(int trenerID)
         {
-            return str; // Метод записи команды на игру
+            return Storage.TrenerStorage.Read(trenerID);
         }
-        [HttpPut("DeterminationOfPlayerEfficiency")]
-        public string DeteminationOfPlayerEfficiency(string str)
+        [HttpPatch]
+        public Trener Update(int trenerID, Trener newTrener)
         {
-            return str; // Метод определения эффективности игрока
+            return Storage.TrenerStorage.Update(trenerID, newTrener);
         }
-        [HttpPut("PaymentOfSalariesToPlayers")]
-        public string PaymentOfSalariesToPlayers(string str)
+        [HttpDelete]
+        public bool Delete(int trenerID)
         {
-            return str; // Методы выплаты игрокам зарплаты
+            return Storage.TrenerStorage.Delete(trenerID);
+        }
+
+        [HttpGet("RecordingTeamForMatch")]
+        public string RecordingTeamForMatch(string str)
+        {
+            return str; // метод записи команды на матч
+        }
+
+        [HttpGet("MakeTrainingSchedule")]
+        public string MakeTrainingSchedule(string str)
+        {
+            return str; // метод составсления тренировок
+        }
+
+        [HttpGet("ChangeTransferStatus")]
+        public string ChangeTransferStatus(string str)
+        {
+            return str; // метод смены трансферного статуса игрока
+        }
+
+        [HttpGet("ExamineTrainingPerfom")]
+        public string ExamineTrainingPerfom(string str)
+        {
+            return str; // метод изучения выполнения тренировок игроком
+        }
+
+        [HttpGet("PlayerBalance")]
+        public string PlayerBalance(string str)
+        {
+            return str; // метод начисления зарплаты игроку
         }
     }
 }

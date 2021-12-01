@@ -14,5 +14,6 @@ namespace GitHub.Repository
         public static SquadOnMatchStorage SquadOnMatchStorage { get; } = new SquadOnMatchStorage();
         public static TrainingScheduleStorage TrainingScheduleStorage { get; } = new TrainingScheduleStorage();
         public static BudgetStorage BudgetStorage { get; } = new BudgetStorage();
+        public static ViewerStorage ViewerStorage { get; } = new ViewerStorage();
     }
 }

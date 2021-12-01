@@ -7,18 +7,10 @@ namespace GitHub.Repository
     public class TicketOnStadiumStorage
     {
         private Dictionary<int, TicketOnStadium> StadiumTick { get; } = new Dictionary<int, TicketOnStadium>();
-        //private SqlConnection Connection { get; } = new SqlConnection("Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;");
-        //public AuthorStorage() => Connection.Open();
-
 
         public void Create(TicketOnStadium stadium)
         {
             StadiumTick.Add(stadium.TicketOnStadiumID, stadium);
-            //var command = Connection.CreateCommand();
-            //command.CommandText = "SELECT * FROM .....";
-            //command.ExecuteNonQuery
-            //command.ExecuteReader
-            //command.ExecuteScalar
         }
 
         public TicketOnStadium Read(int TicketOnStadiumID)

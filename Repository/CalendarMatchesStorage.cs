@@ -7,17 +7,10 @@ namespace GitHub.Repository
     public class ClalendarMatchesStorage
     {
         private Dictionary<int, CalendarMatches> Calendars { get; } = new Dictionary<int, CalendarMatches>();
-        //private SqlConnection Connection { get; } = new SqlConnection("Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;");
-        //public AuthorStorage() => Connection.Open();
-
+       
         public void Create(CalendarMatches calendar)
         {
             Calendars.Add(calendar.CalendarMatchesID, calendar);
-            //var command = Connection.CreateCommand();
-            //command.CommandText = "SELECT * FROM .....";
-            //command.ExecuteNonQuery
-            //command.ExecuteReader
-            //command.ExecuteScalar
         }
 
         public CalendarMatches Read(int CalendarID)
