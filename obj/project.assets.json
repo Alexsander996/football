@@ -7330,19 +7330,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Саня\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Саня\\Documents\\GitHub\\footaball\\football.csproj",
+      "projectUniqueName": "D:\\rsreu\\03_practice\\035\\Petrenko\\football.csproj",
       "projectName": "football",
-      "projectPath": "C:\\Users\\Саня\\Documents\\GitHub\\footaball\\football.csproj",
-      "packagesPath": "C:\\Users\\Саня\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Саня\\Documents\\GitHub\\footaball\\obj\\",
+      "projectPath": "D:\\rsreu\\03_practice\\035\\Petrenko\\football.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "D:\\rsreu\\03_practice\\035\\Petrenko\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7405,7 +7405,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
