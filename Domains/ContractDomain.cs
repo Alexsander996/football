@@ -6,8 +6,8 @@ namespace GitHub
     {
         public int ContractID { get; set; }
         public int Duration { get; set; }
-        public Salary Salary { get; set; }
-        public RoleInTeam Role { get; set; }
-        public Budget Bonus { get; set; }
+        public int Salary { get; set; }
+        public int Role { get; set; }
+        public int Bonus { get; set; }
     }
 }

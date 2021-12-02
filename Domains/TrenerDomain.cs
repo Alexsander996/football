@@ -5,8 +5,8 @@ namespace GitHub
     public class Trener
     {
         public int TrenerID { get; set; } 
-        public TrainingSchedule TraningSchedule { get; set; }
-        public RatingPlayer RatingPlayer { get; set; }
-        public SquadOnMatch SquadOfTheMatch { get; set; }
+        public int TraningSchedule { get; set; }
+        public int RatingPlayer { get; set; }
+        public int SquadOfTheMatch { get; set; }
     }
 }

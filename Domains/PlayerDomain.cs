@@ -7,8 +7,8 @@ namespace GitHub
         public int PlayerID { get; set; }
         public string FIO { get; set; }
         public int Number { get; set; }
-        public RatingPlayer Rating { get; set; }
-        public PositionOnField PositionInField { get; set; }
-        public RoleInTeam Role { get; set; }
+        public int Rating { get; set; }
+        public int PositionInField { get; set; }
+        public int Role { get; set; }
     }
 }
