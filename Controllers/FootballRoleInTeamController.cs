@@ -29,7 +29,7 @@ namespace footaball.Controllers
         [HttpPatch]
         public RoleInTeam Update(int roleID, RoleInTeam newRole)
         {
-            return Storage.RoleInTeamStorage.Update(roleID);
+            return Storage.RoleInTeamStorage.Update(roleID, newRole);
         }
 
         [HttpDelete]
