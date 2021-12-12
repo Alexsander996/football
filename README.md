@@ -138,7 +138,7 @@
 
 ![image](https://user-images.githubusercontent.com/91204107/145713578-f127a3a0-22a9-42d4-8295-168009e47e49.png)
 
-2. Функция чтения Read извлекает определенные записи и считывать их значения.
+2. Операция чтения Read извлекает определенные записи и считывать их значения.
 
 Листинг 15 - Функция Read
 
@@ -152,14 +152,14 @@
 
 После выполнения операции сервер выдает информацию о игроке, которая была создана в Create:
 
-Листинг 17 - Выполнение функции Read
+Листинг 17 - Выполнение операции Read
 
 ![image](https://user-images.githubusercontent.com/91204107/145713830-e5b7273c-e5d4-4381-b23c-c2847e5423d9.png)
 
 
 3. Функция Update редактирует существующие записи. Используется для изменения записей в базе данных.
 
-Листинг 18 - Функция Update
+Листинг 18 - Операция Update
 
 ![image](https://user-images.githubusercontent.com/91204107/145713899-025f722d-b187-40de-b8bc-7cc946fc16c7.png)
 
@@ -177,13 +177,13 @@
 ![image](https://user-images.githubusercontent.com/91204107/145714087-3bf1d3fa-8c4f-48c3-b207-e22c5b2de30f.png)
 
 
-Функцией Read можно проверить результат вышеуказанной операции.
+Операцией Read можно проверить результат вышеуказанной операции.
 
 Листинг 21 - Проверка изменения информации о игроке
 
 ![image](https://user-images.githubusercontent.com/91204107/145714144-cf7d0665-d78a-4006-9d2c-2146da69424a.png)
 
-4. Функция Delete используется для удаления записи по ID. Если операция удаления прошла успешно, то ответ сервера будет "true", в противном случае "false"
+4. Операция Delete используется для удаления записи по ID. Если операция удаления прошла успешно, то ответ сервера будет "true", в противном случае "false"
 
 Удаление игрока по его ID.
 
@@ -203,16 +203,16 @@
 
 ## Список используемой литературы
 
-[1] https://ru.wikipedia.org/wiki/Футбол
+[1] Краткий гид по игре в футбол: правила, основные термины, история[электронный ресурс]/Спорт РИА-новости - Футбол, 2021 - Режим доступа:https://rsport.ria.ru/20211023/futbol-1755915720.html, свободный (дата обращения 12.12.2021)
 
-[2] https://sportuniverhub.com/osnovnye-kachestva-trenera-po-futbolu
+[2] Основные качества тренера по футболу [Электронный ресурс]// SPORT UNIVER, Москва 2021. - Режим доступа: https://sportuniverhub.com/osnovnye-kachestva-trenera-po-futbolu, свободный (дата обращения 03.12.2021)
 
-[3] https://football-match24.com/rasshifrovka-abbreviatur-fifa-i-uefa-v-chyom-ix-raznica.html
+[3] Расшифровка аббревиатур ФИФА и УЕФА: в чем их разница? [электронный ресурс]/football-match24 - мировой футбол, 2018 - Режим доступа:https://football-match24.com/rasshifrovka-abbreviatur-fifa-i-uefa-v-chyom-ix-raznica.html, свободный (дата обращения 03.12.2021)
 
-[4] https://okko.sport/sport_collection/football
+[4] Okko-sport-football [электронный ресурс]//Альберт Авдолян и Сергей Адоньев - стриминговый сервис, 2013 - Режим доступа: https://okko.sport/sport_collection/football, свободный (дата обращения 03.12.2021)
 
-[5] https://habr.com/ru/company/trinion/blog/340064/
+[5] Что такое DFD (диаграммы потоков данных)[электронный ресурс]/ramil_trinion - "Trinion" Внедрение систем ERP и CRM, 2017 - Режим доступа:https://habr.com/ru/company/trinion/blog/340064/, свободный (дата обращения 03.12.2021)
 
-[6] https://www.lucidchart.com/pages/ru/erd-диаграмма
+[6] Что такое ER - диагарамма и как ее создать[электронный ресурс]/Lucid - "Lucidchart" Что такое ER-диаграмма, 2021, Режим доступа:https://www.lucidchart.com/pages/ru/erd-диаграмма, свободный (дата обращения 03.12.2021)
 
-[7] 
+[7] Что такое CRUD операции[электронный ресурс]/BEST PROGRAMMER - Что такое CRUD операции?, 2021 - Режим доступа:https://bestprogrammer.ru/izuchenie/chto-takoe-crud-operatsii, свободный (дата обращения 12.12.2021)
