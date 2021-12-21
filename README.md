@@ -83,9 +83,11 @@
 Создаются такие классы для всех сущностей из ER - диаграммы (см. рисунок 5)
 
 ![image](https://user-images.githubusercontent.com/91204107/144307987-eb127572-e123-4c5b-bbce-5043c95d4bbb.png)
+
 <p aling="center">
 Рисунок 5 - Список созданных классов
 </p>
+
 После создается хранилище для класса (см. рисунок 6).
 
 ![image](https://user-images.githubusercontent.com/91204107/145712485-ce7acdad-4b3e-4353-b3b8-652832cac122.png)
