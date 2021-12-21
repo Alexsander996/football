@@ -79,7 +79,7 @@
 
 На основе этой диаграммы создаются классы в среде C# и описываются с параметрами и их типами данных (см. рисунок 4)
 <p align="center">
-![image](https://user-images.githubusercontent.com/91204107/145712286-8536de9e-2d67-4b91-bec8-016a16d4bc8a.png)
+<img src="https://user-images.githubusercontent.com/91204107/145712286-8536de9e-2d67-4b91-bec8-016a16d4bc8a.png"<br>
  </p>
 <p align="center">
 Рисунок 4 - Класс "Тренер"
